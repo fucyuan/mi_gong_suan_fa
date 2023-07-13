@@ -1,0 +1,8 @@
+﻿  迷宫算法.cpp
+E:\程序\ConsoleApplication2\画出迷宫.h(1,1): warning C4828: 文件包含在偏移 0xba 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\程序\ConsoleApplication2\曼哈顿距离.h(1,1): warning C4828: 文件包含在偏移 0xa5 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\程序\ConsoleApplication2\迷宫算法.cpp(145,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\程序\ConsoleApplication2\迷宫算法.cpp(146,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\程序\ConsoleApplication2\迷宫算法.cpp(180,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\程序\ConsoleApplication2\迷宫算法.cpp(181,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication2.vcxproj -> E:\程序\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
